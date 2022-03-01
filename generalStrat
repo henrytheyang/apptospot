@@ -1,0 +1,26 @@
+Download html data
+
+Collect
+
+TRACK NAME - ARTIST NAME
+
+, separated by line breaks into a string
+
+
+
+Track names and artist names listed in html as:
+
+Track name between
+class="songs-list-row__song-name">
+and
+<div>
+
+Artist name between
+class="songs-list-row__link" tabindex="-1" dir="auto">
+and
+</a>
+
+
+Use https://epsil.github.io/spotgen/ to create spotify playlist
+
+ 
